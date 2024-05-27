@@ -55,7 +55,7 @@ namespace ProductManagement.Data
 
             var printer1 = new Product
             {
-                Category = monitors,
+                Category = printers,
                 Name = "Acme Monochrome Laser Printer, Compact All-In One",
                 Price = 199,
                 ReleaseDate = new DateTime(2020, 11, 16),
